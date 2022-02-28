@@ -102,4 +102,5 @@ include_sortable: true
 | WAF    | Web Application Firewall                                               | SOC        |                     |
 | WAN    | Wide Area Network                                                      | Networking |                     |
 | XML    | eXtensible Markup Language                                             | WebDev     | Language            |
+| XSS    | Cross Site Scripting                                                   | WebDev     | Exploit             |
 | XXE    | XML eXternal Entities                                                  | WebSec     | Exploit (& Feature) |
